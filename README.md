@@ -1,2 +1,2 @@
 # ai-learning-2026
-Tracking Personal Progression in Exploring the world of Python Coding &amp; Machine Learning
+My daily Python learning progress toward AI/ML mastery – starting 01/09/26
