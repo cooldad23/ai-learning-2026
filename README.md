@@ -13,6 +13,8 @@ Completed Module 1 of Coursera's Python for Everybody course
 • 01/10
 
 Completed Modules 2 & 3 of Coursera's Python for Everybody course
+-
+Learned to install Python and text editors, creating a directory folder, launching Python from terminal, and launching .py projects from terminal
 
 Completed "Hello World" assignment - Writing a program that uses a print function to say 'hello world'
 
@@ -21,3 +23,7 @@ Completed "Hello World" assignment - Writing a program that uses a print functio
 Completed Module 4 of Coursera's Python for Everybody course
 
 Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay
+
+Note-taking on Conditional Statements
+
+• 01/12 (placeholder)
