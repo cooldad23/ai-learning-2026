@@ -9,3 +9,10 @@ Setup + first public code commit via Github
 
 Intro to Python -
 Completed Module 1 of Coursera's Python for Everybody course
+
+• 01/10
+
+Completed Modules 2 & 3 of Coursera's Python for Everybody course
+Completed printing "hello world" assignment
+
+• 01/11
