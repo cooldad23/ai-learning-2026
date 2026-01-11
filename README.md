@@ -14,7 +14,7 @@ Completed Module 1 of Coursera's Python for Everybody course
 
 Completed Modules 2 & 3 of Coursera's Python for Everybody course
 
-Completed the print "Hello World" assignment - Writing a program that uses a print function to say 'hello world'
+Completed "Hello World" assignment - Writing a program that uses a print function to say 'hello world'
 
 • 01/11
 
