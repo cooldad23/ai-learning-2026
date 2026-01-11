@@ -14,6 +14,6 @@ Completed Module 1 of Coursera's Python for Everybody course
 
 Completed Modules 2 & 3 of Coursera's Python for Everybody course
 
-Completed printing "hello world" assignment
+Completed print "hello world" assignment
 
 • 01/11
