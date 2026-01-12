@@ -23,10 +23,7 @@ Completed Modules 2 & 3 of Coursera's Python for Everybody course
 -
 
 Completed Module 4 of Coursera's Python for Everybody course
-
-Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay
-
-Note-taking on Conditional Statements
+- Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay
 
 • 01/12
 -
