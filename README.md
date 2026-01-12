@@ -2,7 +2,6 @@
 My daily Python learning progress toward AI/ML mastery – starting 01/09/26
 
 # Progress Log
-
 • 01/09
 -
 
