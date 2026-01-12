@@ -17,6 +17,7 @@ Completed Modules 2 & 3 of Coursera's Python for Everybody course
 Learned to install Python and text editors, creating a directory folder, launching Python from terminal, and launching .py projects from terminal
 
 Completed "Hello World" assignment - Writing a program that uses a print function to say 'hello world'
+-
 
 • 01/11
 
