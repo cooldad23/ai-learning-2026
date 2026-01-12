@@ -14,9 +14,9 @@ Completed Module 1 of Coursera's Python for Everybody course
 • 01/10
 -
 
-Completed Modules 2 & 3 of Coursera's Python for Everybody course
-
 Learned to install Python and text editors, creating a directory folder on Macbook, using Python from terminal, and changing directory to launch .py projects in terminal
+
+Completed Modules 2 & 3 of Coursera's Python for Everybody course
 
 Completed "Hello World" assignment - Writing a program that uses a print function to say 'hello world'
 
