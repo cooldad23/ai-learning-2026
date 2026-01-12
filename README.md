@@ -29,4 +29,6 @@ Completed "Pay Calculator" assignment - Writing a program to prompt the user for
 
 Note-taking on Conditional Statements
 
-• 01/12 (placeholder)
+• 01/12
+-
+(placeholder)
