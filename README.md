@@ -8,8 +8,8 @@ Progress Log
 
 Setup + first public code commit via Github
 
-Intro to Python -
 Completed Module 1 of Coursera's Python for Everybody course
+- Intro to Python
 
 • 01/10
 -
