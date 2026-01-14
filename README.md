@@ -21,7 +21,10 @@ Learned to install Python and text editors, creating a directory folder on Macbo
 -
 
 Completed Chapter 2 of Coursera's Programming for Everybody course
-  - Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input() function to compute gross pay
+  - Learned about Constants, Reserved Words, Variables
+  - Learned about Operation Precedence Rules, Number Types, Conversions
+  - Learned about User Inputs and Comments
+- Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input() function to compute gross pay
 
 • 01/13
 -
