@@ -27,8 +27,8 @@ Completed Chapter 1 of Coursera's Programming for Everybody course
 Completed Chapter 2 of Coursera's Programming for Everybody course
 - Learned about:
   - Constants, Reserved Words, Variables
-  - Learned about Operation Precedence Rules, Number Types, Conversions
-  - Learned about User Inputs and Comments
+  - Operation Precedence Rules, Number Types, Conversions
+  - User Inputs and Comments
 - Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input() function to compute gross pay
 
 • 01/13
