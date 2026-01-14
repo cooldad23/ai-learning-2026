@@ -29,5 +29,6 @@ Completed Module 4 of Coursera's Programming for Everybody course
 -
 
 Completed Module 5 of Coursera's Programming for Everybody course
-- Completed "Overtime Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay, and calculate additional pay per hour over 40
-- Completed "Write Conditional Statements" - Writing a program to prompt for a score input of between 0.0 and 1.0 and converting it to a letter grade from A-F using float() function
+- Completed Chapter 3
+  - Completed "Overtime Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay, and calculate additional pay per hour over 40
+  - Completed "Write Conditional Statements" - Writing a program to prompt for a score input of between 0.0 and 1.0 and converting it to a letter grade from A-F using float() function
