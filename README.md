@@ -23,7 +23,8 @@ Completed Modules 2 & 3 of Coursera's Programming for Everybody course
 -
 
 Completed Module 4 of Coursera's Programming for Everybody course
-- Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input() function to compute gross pay
+- Completed Chapter 2
+  - Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input() function to compute gross pay
 
 • 01/13
 -
