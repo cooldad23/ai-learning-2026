@@ -17,7 +17,7 @@ Learned to install Python and text editors, creating a directory folder on Macbo
 
 Completed Chapter 1 of Coursera's Programming for Everybody course
   - Learned about:
-    - The Computer Diagram (CPU, Main memory, secondary memory, transistor, input/output devices)
+    - Computer's Diagram (CPU, main memory, secondary memory, transistors, input/output devices)
     - Python sentences, Python programs (Interactive & Script), Program flow & pattern
   - Completed "Hello World" assignment - Writing a program that using the print() function to say 'hello world'
 
@@ -35,5 +35,9 @@ Completed Chapter 2 of Coursera's Programming for Everybody course
 -
 
 Completed Chapter 3 of Coursera's Programming for Everybody course
+  - Learned about:
+    - Conditional statements
+      - if, else, elif
+    - Boolean expressions, comparison operators, indentations, try/except structures
   - Completed "Overtime Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay, and calculate additional pay per hour over 40
   - Completed "Write Conditional Statements" - Writing a program to prompt for a score input of between 0.0 and 1.0 and converting it to a letter grade from A-F using float() function
