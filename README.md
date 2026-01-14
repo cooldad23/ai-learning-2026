@@ -17,13 +17,13 @@ Completed Module 1/7 of Coursera's Programming for Everybody course
 Learned to install Python and text editors, creating a directory folder on Macbook, using Python from terminal, and changing directory to launch .py projects in terminal
 
 Completed Modules 2 & 3 of Coursera's Programming for Everybody course
-- Completed "Hello World" assignment - Writing a program that uses a print function to say 'hello world'
+- Completed "Hello World" assignment - Writing a program that using the print() function to say 'hello world'
 
 • 01/11
 -
 
 Completed Module 4 of Coursera's Programming for Everybody course
-- Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input to compute gross pay
+- Completed "Pay Calculator" assignment - Writing a program to prompt the user for hours and rate per hour using input() function to compute gross pay
 
 • 01/13
 -
