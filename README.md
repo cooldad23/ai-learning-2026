@@ -8,7 +8,7 @@ My daily Python learning progress toward AI/ML mastery – starting 01/09/26
 
 Setup + first public code commit via Github
 
-- Completed Python Coursera's Programming for Everybody course Intro
+- Completed Intro to Python Coursera's Programming for Everybody course
 
 • 01/10
 -
