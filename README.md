@@ -15,13 +15,16 @@ Setup + first public code commit via Github
 
 Learned to install Python and text editors, creating a directory folder on Macbook, using Python from terminal, and changing directory to launch .py projects in terminal
 - Completed Chapter 1 of Coursera's Programming for Everybody course
+  - Learned about:
+    - The Computer Diagram (CPU, Main memory, secondary memory, transistor, input/output devices)
+    - Python sentences, Python programs (Interactive & Script), Program flow & pattern
   - Completed "Hello World" assignment - Writing a program that using the print() function to say 'hello world'
 
 • 01/11
 -
 
 Completed Chapter 2 of Coursera's Programming for Everybody course
-- Learned about
+- Learned about:
   - Constants, Reserved Words, Variables
   - Learned about Operation Precedence Rules, Number Types, Conversions
   - Learned about User Inputs and Comments
