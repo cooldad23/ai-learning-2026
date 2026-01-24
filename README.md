@@ -70,4 +70,4 @@ Progressed through Chapter 6 of PY4E's Python for Everybody course
 
 Completed Chapter 6 of PY4E's Python for Everybody course
   - Learned about:
-    - (placeholder)
+    - Loop Idioms (placeholder)
